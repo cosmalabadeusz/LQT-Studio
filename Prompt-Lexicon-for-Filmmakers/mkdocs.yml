@@ -1,0 +1,6 @@
+site_name: AI Promtping Lexicon for Filmmakers
+copyright: mbala@publicisgroupe.net
+theme:
+  name: material
+not_in_nav: |
+  /index.md
