@@ -1,5 +1,3 @@
-doesn't work
-
 | Table of Contents
 | :--------------------------------- |
 | 01 Introduction and Best Practices |
